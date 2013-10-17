@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGSTask", "WGSTask\WGSTask.csproj", "{C315C545-3396-45A5-8502-970F303B341B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C315C545-3396-45A5-8502-970F303B341B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C315C545-3396-45A5-8502-970F303B341B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C315C545-3396-45A5-8502-970F303B341B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C315C545-3396-45A5-8502-970F303B341B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
