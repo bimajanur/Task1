@@ -23,4 +23,5 @@
     <p>
         <%= Html.ActionLink("Add Contact", "Add") %>
     </p>
+
 </asp:Content>
